@@ -10,7 +10,7 @@
     },
     "autoload":{
         "psr-4":{
-            "Suchenyi\\Tplibrary\\":"src/Suchenyi/Tplibrary/"
+            "Suchenyi\\library\\":"src/Suchenyi/library/"
         }
     },
     "description": "",

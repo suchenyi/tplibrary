@@ -1,6 +1,6 @@
 <?php
 declare (strict_types=1);
-namespace Captainbi\Library\Util;
+namespace Xueluo\Library\Util;
 
 /**
  * 数据处理

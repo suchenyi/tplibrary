@@ -1,6 +1,6 @@
 <?php
 
-namespace Captainbi\Library\Base;
+namespace Xueluo\Library\Base;
 
 use think\App;
 

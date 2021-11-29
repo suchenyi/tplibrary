@@ -1,10 +1,10 @@
 <?php
 
 
-namespace Captainbi\Library\Base;
+namespace Xueluo\Library\Base;
 
 
-use Captainbi\Library\Exception\BusinessException;
+use Xueluo\Library\Exception\BusinessException;
 
 abstract class Logic
 {

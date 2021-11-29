@@ -12,7 +12,7 @@
  * @param <T>
  */
 
-namespace Captainbi\Library\Util;
+namespace Xueluo\Library\Util;
 
 class Result
 {

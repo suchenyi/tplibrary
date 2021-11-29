@@ -1,7 +1,7 @@
 <?php
 declare (strict_types=1);
 
-namespace Captainbi\Library\Exception;
+namespace Xueluo\Library\Exception;
 
 use Throwable;
 

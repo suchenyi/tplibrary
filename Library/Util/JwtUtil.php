@@ -1,12 +1,12 @@
 <?php
 declare (strict_types=1);
 
-namespace Captainbi\Library\Util;
+namespace Xueluo\Library\Util;
 
 use Firebase\JWT\JWT;
 use think\facade\Config;
 use think\facade\Log;
-use Captainbi\Library\Exception\BusinessException;
+use Xueluo\Library\Exception\BusinessException;
 /**
  * jwt 加解密
  * Class JwtUtil

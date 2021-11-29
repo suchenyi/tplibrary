@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Captainbi\Library\Base;
+namespace Xueluo\Library\Base;
 
 
 class Model extends \think\Model

@@ -10,7 +10,7 @@
     },
     "autoload":{
         "psr-4":{
-            "xueluo\\library\\":"src/xueluo/library/"
+            "Xueluo\\Library\\":"src/Xueluo/Library/"
         }
     },
     "description": "",

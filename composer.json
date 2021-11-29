@@ -1,5 +1,23 @@
 {
-	"require": {
-		"suchenyi/tplibrary": "main"
-	}
+	"name": "suchenyi/tplibrary",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "main",
+    "require": {
+        "php": ">=7.1.0",
+        "topthink/framework": "^6.0.0",
+        "topthink/think-orm": "^2.0"
+    },
+    "autoload":{
+        "psr-4":{
+            "Suchenyi\\Tplibrary\\":"src/Suchenyi/Tplibrary/"
+        }
+    },
+    "description": "",
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://mirrors.aliyun.com/composer/"
+        }
+    }
 }

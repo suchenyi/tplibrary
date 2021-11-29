@@ -2,7 +2,7 @@
 	"name": "suchenyi/tplibrary",
     "type": "library",
     "license": "MIT",
-    "minimum-stability": "dev-master",
+    "minimum-stability": "dev",
     "require": {
         "php": ">=7.1.0",
         "topthink/framework": "^6.0.0",
@@ -10,7 +10,7 @@
     },
     "autoload":{
         "psr-4":{
-            "Suchenyi\\library\\":"src/Suchenyi/library/"
+            "xueluo\\library\\":"src/xueluo/library/"
         }
     },
     "description": "",
